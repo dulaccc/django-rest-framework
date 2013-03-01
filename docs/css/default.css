@@ -4,6 +4,10 @@ pre {
   font-size: 12px;
 }
 
+a code {
+  text-decoration: underline;
+}
+
 .dropdown .dropdown-menu {
     display: none;
 }
