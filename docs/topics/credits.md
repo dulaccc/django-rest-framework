@@ -142,6 +142,8 @@ The following people have helped make REST framework great.
 * Areski Belaid - [areski]
 * Ethan Freman - [mindlace]
 * David Sanders - [davesque]
+* Philip Douglas - [freakydug]
+* Igor Kalat - [trwired]
 
 Many thanks to everyone who's contributed to the project.
 
@@ -320,4 +322,5 @@ You can also contact [@_tomchristie][twitter] directly on twitter.
 [areski]: https://github.com/areski
 [mindlace]: https://github.com/mindlace
 [davesque]: https://github.com/davesque
-
+[freakydug]: https://github.com/freakydug
+[trwired]: https://github.com/trwired
